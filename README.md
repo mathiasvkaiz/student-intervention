@@ -26,4 +26,4 @@ This project contains three files:
   
 ### Run
 In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command:  
-```jupyter notebook student_intervention.ipynb.ipynb```
+```jupyter notebook student_intervention.ipynb```
